@@ -1,0 +1,17 @@
+body{background: #171717;font-size: 20px;font-family: 'Chilanka', cursive;}
+.Postcard{background: white;width: 550px;height: 350px;margin: auto;
+position: absolute;top: 50%; left: 50%;transform:translate(-50%,-50%); 
+padding:15px}
+.Postcard-header img{max-width: 60px;float: right;}
+.Postcard-header{overflow: hidden;}
+input{font-size: 18px;font-family: 'Chilanka', cursive;}
+.Postcard h1{margin: 0}
+h1{font-size: 36px}
+.Postcard-body{overflow: hidden;}
+.body-left-part{float: left;;width: 50%}
+.body-right-part{float: right;width: 50%}
+.body-right-part input{display: block;}
+.Postcard-footer{;padding:10px;text-align: center}
+.Postcard-footer input[type=submit]{border:none; border-bottom: 1px solid gray;font-family: 'Chilanka', cursive;}
+.Postcard-body input[type=text]{border:none; border-bottom: 1px solid gray;font-family: 'Chilanka', cursive;
+width: 250px;margin-bottom: 10px;padding: 5px}
